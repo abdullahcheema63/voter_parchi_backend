@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i!d*4)kx-=dggr-c1$cn!g-a@e^=kje+$ztr54y1b((p2(hz9c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["192.168.0.151"]
+ALLOWED_HOSTS = ["192.168.0.151","parchi.truid.ai"]
 
 
 # Application definition
